@@ -1,1 +1,1 @@
-# tensorflow-binary-classifier
+# 2020-wireless-big-data-contest
